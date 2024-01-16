@@ -1,5 +1,19 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 20px;
+    padding: 10px;
 }
 
+header {
+    background-color: blanchedalmond;
+    width: 100%;
+}
+
+#mid {
+    background-color: beige;
+    width: 100%;
+}
+
+footer {
+    background-color: blanchedalmond;
+    width: 100%;
+}
